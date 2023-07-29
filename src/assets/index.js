@@ -20,7 +20,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-import Java from "./tech/java.svg"
+import Java from "./tech/Java.svg"
 import MYSQL from "./MYSQL.svg"
 import NB from "./NB.png"
 import CTS from "./CTS.png"
