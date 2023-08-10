@@ -147,7 +147,7 @@ const experiences = [
 
 const testimonials = [
   {
-    testimonial:"Manish's front-end skills are impressive! They deliver clean, visually appealing, and functional code consistently. A valuable asset to any team with great attention to detail and dedication to user experience." ,
+    testimonial:"Manish possesses remarkable frontend abilities! They consistently provide code that is both sleek and visually captivating, while maintaining functionality at its core. Manish is an invaluable addition to any team, demonstrating exceptional attention to detail and an unwavering commitment to enhancing user experience." ,
     name:"Nidhi",
     designation: "Software Engineer",
     company: "NB Digitals",
@@ -155,7 +155,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like Manish does.",
     name: "Satyam",
     designation: "Software Engineer",
     company: "Amdocs",
